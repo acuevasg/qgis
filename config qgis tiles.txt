@@ -1,0 +1,4 @@
+Tiles ESRI
+http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
+OpenStreetMap
+http://c.tile.osm.org/{z}/{x}/{y}.png
